@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26590283/README.md)
 <div align="center">
 
 # Hi, I'm Phurimart 👋
