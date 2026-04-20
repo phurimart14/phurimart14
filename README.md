@@ -51,7 +51,7 @@
 ## 🚀 Projects
 
 ### 🎌 Anime Explorer
-> React · TypeScript · Tailwind CSS · Jikan API (MyAnimeList)
+> React · TypeScript · Tailwind CSS · Jikan API (MyAnimeList) · Zustand
 
 Browse and search anime titles with real-time filtering, dynamic routing, and async data fetching.
 Final frontend capstone project at WeStride Academy.
