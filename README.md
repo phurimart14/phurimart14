@@ -15,6 +15,7 @@
 
 - 🎓 Fullstack Development Bootcamp @ **WeStride Academy** *(backend track completing Aug 2026)*
 - 💻 Focused on **Frontend** — React, TypeScript, Tailwind CSS
+- 💼 **Active freelance** — รับงาน Landing Page · เว็บบริษัท · SaaS ที่ Fastwork
 - 🚀 Proven ability to ship complete web apps from concept to deployment
 - 🌍 Based in Thailand — Open to **Remote & On-site**
 - 🎨 Background in digital asset creation — **1,098+ downloads** on CGTrader
@@ -60,7 +61,60 @@ Final frontend capstone project at WeStride Academy.
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://animeexplorer-chi.vercel.app/)
 
 ---
+### 💼 Fifa Freelance — Personal Portfolio
+> Next.js 14 · TypeScript · Tailwind CSS · React Context i18n
 
+Bilingual freelance landing page showcasing 4 case studies with real client work.
+Features dark mode, TH/EN toggle, custom design tokens, and `next/image` optimization.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/fifa-freelance)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://fifa-freelance.vercel.app/)
+
+---
+
+### 💸 Paid — SaaS Invoicing Platform
+> Next.js · TypeScript · Tailwind CSS · Supabase
+
+Thai e-Tax invoicing system for freelancers and SMEs.
+Landing page + dashboard flow with authentication and database integration.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/paid-saas)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://paid-saa-s.vercel.app)
+
+---
+
+### 🏢 Stratos Digital — B2B Corporate Landing
+> Next.js 14 · TypeScript · Tailwind CSS · Custom design tokens
+
+Modern corporate landing page for a B2B software studio.
+Animated trust marquee, 4-step process timeline, case studies with metric grids, TH/EN i18n.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/PaidSaaS)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://paid-saa-s.vercel.app/)
+
+---
+
+### 🌸 Glow Clinic — Skincare Landing Page
+> Next.js · TypeScript · Tailwind CSS
+
+Premium skincare clinic landing with trust signals, real reviews,
+and LINE booking integration. Conversion-focused B2C design.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/clinicLandingpage)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://clinic-landingpage-phi.vercel.app/)
+
+---
+
+### ☕ Amber Brew — Specialty Cafe Website
+> Next.js · TypeScript · Tailwind CSS
+
+Specialty cafe site featuring menu, Google Map embed,
+Instagram feed integration, and online ordering flow.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/CafeLandingpage)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://cafe-landingpage-seven.vercel.app/)
+
+---
 ### 🔴 Pokédex Application
 > React · TypeScript · PokéAPI · Tailwind CSS
 
