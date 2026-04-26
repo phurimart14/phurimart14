@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Fullstack Development Bootcamp @ **WeStride Academy** *(backend track completing Aug 2026)*
-- 💻 Focused on **Frontend** — React, TypeScript, Tailwind CSS
+- 💻 Focused on **Frontend** — React, TypeScript, Tailwind CSS, Next.Js
 - 💼 **Active freelance** — รับงาน Landing Page · เว็บบริษัท · SaaS ที่ Fastwork
 - 🚀 Proven ability to ship complete web apps from concept to deployment
 - 🌍 Based in Thailand — Open to **Remote & On-site**
@@ -33,6 +33,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Tools & APIs**
 
@@ -41,6 +42,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Backend (Learning)**
 
