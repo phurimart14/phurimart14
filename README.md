@@ -81,7 +81,7 @@ Features dark mode, TH/EN toggle, custom design tokens, and `next/image` optimiz
 Thai e-Tax invoicing system for freelancers and SMEs.
 Landing page + dashboard flow with authentication and database integration.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/paid-saas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/PaidSaaS)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://paid-saa-s.vercel.app)
 
 ---
