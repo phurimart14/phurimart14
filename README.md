@@ -92,8 +92,8 @@ Landing page + dashboard flow with authentication and database integration.
 Modern corporate landing page for a B2B software studio.
 Animated trust marquee, 4-step process timeline, case studies with metric grids, TH/EN i18n.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/PaidSaaS)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://paid-saa-s.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phurimart14/stratos-landing)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://stratos-landing-one.vercel.app/)
 
 ---
 
